@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ricardo/Ricks, call me how you want
+- 👀 I’m interested in pyhton, java and web deve languages
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: email ricarynwa8@gmail.com 
